@@ -1,0 +1,2 @@
+include:
+  - ./dns/docker-compose.yml
